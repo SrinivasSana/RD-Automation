@@ -19,7 +19,7 @@ public class mobiletest {
 		
 		HashMap<String,String> map = new HashMap<String,String>();
 		
-		String name="srinivas";
+		String name="srinivas12345";
 		int str=name.length();
 		
 		java.util.List<String> a=Arrays.asList(name);
