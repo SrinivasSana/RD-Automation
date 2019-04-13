@@ -13,6 +13,7 @@ public class mobiletest {
 	static WebDriver driver;
 	public static void launchurl()
 	{
+		//TestGIT
 		/*driver =new FirefoxDriver();
 		driver.get("https://www.gmail.com");
 	*/
